@@ -1,0 +1,30 @@
+{
+	"name": "crizzo/editorimgbuttons",
+	"type": "phpbb-extension",
+	"description": "Changes buttons in posting editor to image-buttons.",
+	"homepage": "https://github.com/Crizz0/phpbb3-simple-imprint",
+	"version": "1.0.0-dev",
+	"time": "2014-12-22",
+	"license": "GPL-2.0",
+	"authors": [{
+			"name": "Christian Schnegelberger",
+			"username": "Crizzo",
+			"email": "kontakt@crizzo.de",
+			"homepage": "http://www.crizzo.de",
+			"role": "Developer/Founder"
+		}],
+	"require": {
+		"php": ">=5.3.3"
+	},
+	"extra": {
+		"display-name": "Posting Editor Image-Buttons",
+		"soft-require": {
+			"phpbb/phpbb": ">=3.1.0"
+		},
+		"version-check": {
+			"host": "www.crizzo.de",
+			"directory": "/phpbbextversion",
+			"filename": "phpbb31-ext-editorimgbuttons.json"
+		}
+	}
+}
