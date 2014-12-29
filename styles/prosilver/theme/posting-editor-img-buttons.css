@@ -29,40 +29,40 @@
 	border:1px solid #316AC5;
 }
 
-.bbcode-bold { background-image: url("./images/bb_bold.png"); }
+.bbcode-bold { background-image: url("images/bb_bold.png"); }
 
-.bbcode-italic { background-image: url("./images/bb_italic.png");}
+.bbcode-italic { background-image: url("images/bb_italic.png");}
 
-.bbcode-underline { background-image: url("./images/bb_underline.png");}
+.bbcode-underline { background-image: url("images/bb_underline.png");}
 
-.bbcode-strikethrough {	background-image: url("./images/bb_strikethrough.png");}
+.bbcode-strikethrough {	background-image: url("images/bb_strikethrough.png");}
 
-.bbcode-color { background-image: url("./images/bb_color.png");}
+.bbcode-color { background-image: url("images/bb_color.png");}
 
-.bbcode-img { background-image: url("./images/bb_image.png");}
+.bbcode-img { background-image: url("images/bb_image.png");}
 
-.bbcode-email { background-image: url("./images/bb_email.png");}
+.bbcode-email { background-image: url("images/bb_email.png");}
 
-.bbcode-quote { background-image: url("./images/bb_quote.png");}
+.bbcode-quote { background-image: url("images/bb_quote.png");}
 
-.bbcode-code { background-image: url("./images/bb_code.png");}
+.bbcode-code { background-image: url("images/bb_code.png");}
 
-.bbcode-list { background-image: url("./images/bb_list.png");}
+.bbcode-list { background-image: url("images/bb_list.png");}
 
-.bbcode-list1 { background-image: url("./images/bb_list1.png");}
+.bbcode-list1 { background-image: url("images/bb_list1.png");}
 
-.bbcode-listitem { background-image: url("./images/bb_listitem.png");}
+.bbcode-listitem { background-image: url("images/bb_listitem.png");}
 
-.bbcode-url { background-image: url("./images/bb_url.png");}
+.bbcode-url { background-image: url("images/bb_url.png");}
 
-.bbcode-center { background-image: url("./images/bb_align_center.png");}
+.bbcode-center { background-image: url("images/bb_align_center.png");}
 
-.bbcode-justify { background-image: url("./images/bb_align_justify.png");}
+.bbcode-justify { background-image: url("images/bb_align_justify.png");}
 
-.bbcode-right { background-image: url("./images/bb_align_right.png");}
+.bbcode-right { background-image: url("images/bb_align_right.png");}
 
-.bbcode-spoiler { background-image: url("./images/bb_spoiler.png");}
+.bbcode-spoiler { background-image: url("images/bb_spoiler.png");}
 
-.bbcode-yt { background-image: url("./images/bb_yt.png"); }
+.bbcode-yt { background-image: url("images/bb_yt.png"); }
 
-.bbcode-flash { background-image: url ("./images/bb_flash.png"); }
+.bbcode-flash { background-image: url ("images/bb_flash.png"); }
