@@ -29,40 +29,40 @@
 	border:1px solid #316AC5;
 }
 
-.bbcode-bold { background-image: url("images/bb_bold.png"); }
+#format-buttons .bbcode-b { background-image: url("images/bb_bold.png"); }
 
-.bbcode-italic { background-image: url("images/bb_italic.png");}
+#format-buttons .bbcode-i { background-image: url("images/bb_italic.png");}
 
-.bbcode-underline { background-image: url("images/bb_underline.png");}
+#format-buttons .bbcode-u { background-image: url("images/bb_underline.png");}
 
-.bbcode-strikethrough {	background-image: url("images/bb_strikethrough.png");}
+#format-buttons .bbcode-strike {	background-image: url("images/bb_strikethrough.png");}
 
-.bbcode-color { background-image: url("images/bb_color.png");}
+#format-buttons .bbcode-color { background-image: url("images/bb_color.png");}
 
-.bbcode-img { background-image: url("images/bb_image.png");}
+#format-buttons .bbcode-img { background-image: url("images/bb_image.png");}
 
-.bbcode-email { background-image: url("images/bb_email.png");}
+#format-buttons .bbcode-email { background-image: url("images/bb_email.png");}
 
-.bbcode-quote { background-image: url("images/bb_quote.png");}
+#format-buttons .bbcode-quote { background-image: url("images/bb_quote.png");}
 
-.bbcode-code { background-image: url("images/bb_code.png");}
+#format-buttons .bbcode-code { background-image: url("images/bb_code.png");}
 
-.bbcode-list { background-image: url("images/bb_list.png");}
+#format-buttons .bbcode-list { background-image: url("images/bb_list.png");}
 
-.bbcode-list1 { background-image: url("images/bb_list1.png");}
+#format-buttons .bbcode-list- { background-image: url("images/bb_list1.png");}
 
-.bbcode-listitem { background-image: url("images/bb_listitem.png");}
+#format-buttons .bbcode-asterisk { background-image: url("images/bb_listitem.png");}
 
-.bbcode-url { background-image: url("images/bb_url.png");}
+#format-buttons .bbcode-url { background-image: url("images/bb_url.png");}
 
-.bbcode-center { background-image: url("images/bb_align_center.png");}
+#format-buttons .bbcode-center { background-image: url("images/bb_align_center.png");}
 
-.bbcode-justify { background-image: url("images/bb_align_justify.png");}
+#format-buttons .bbcode-justify { background-image: url("images/bb_align_justify.png");}
 
-.bbcode-right { background-image: url("images/bb_align_right.png");}
+#format-buttons .bbcode-right { background-image: url("images/bb_align_right.png");}
 
-.bbcode-spoiler { background-image: url("images/bb_spoiler.png");}
+#format-buttons .bbcode-spoiler { background-image: url("images/bb_spoiler.png");}
 
-.bbcode-yt { background-image: url("images/bb_yt.png"); }
+#format-buttons .bbcode-yt { background-image: url("images/bb_yt.png"); }
 
-.bbcode-flash { background-image: url ("images/bb_flash.png"); }
+#format-buttons .bbcode-flash { background-image: url("images/bb_flash.png"); }
