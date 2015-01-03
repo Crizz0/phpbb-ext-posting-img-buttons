@@ -4,8 +4,14 @@ Posting Editor Image-Buttons 1.0.0
 
 The images are from www.famfamfam.com. 
 
-Install:
-==============
-Copy the folder "editorimgbuttons" to phpBB-root/ext/crizzo/.
+## Install instructions:
+1. Download the extension
+2. Copy the whole archive content to: phpBB/ext/crizzo/editorimgbuttons
+3. Go to your phpBB-Board --> Admin Control Panel --> Customise --> Manage extensions --> Posting Editor Image-Buttons: Enable
 
-Go to ACP > Customise > Extension management > Posting Editor Image-Buttons > Activate.
+## Update instructions:
+1. Go to you phpBB-Board > Admin Control Panel > Customise > Manage extensions > Posting Editor Image-Buttons: disable
+2. Delete all files of the extension from phpBB/ext/crizzo/editorimgbuttons
+3. Upload all the new files to the same locations
+4. Go to you phpBB-Board > Admin Control Panel > Customise > Manage extensions > Posting Editor Image-Buttons: enable
+5. Purge the board cache
