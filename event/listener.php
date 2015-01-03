@@ -17,14 +17,21 @@ use Symfony\Component\EventDispatcher\EventSubscriberInterface;
 /**
 * Event listener
 */
-class main_listener implements EventSubscriberInterface
+class listener implements EventSubscriberInterface
 {
+	static public function getSubscribedEvents()
+	{
+		return array(
+			'core.user_setup'						=> 'load_language_on_setup',
+		);
+	}
+
 	public function load_language_on_setup($event)
 	{	
 		$lang_set_ext = $event['lang_set_ext'];
 		$lang_set_ext[] = array(
 			'ext_name' => 'crizzo/editorimgbuttons',
-			'lang_set' => 'postingeditor',
+			'lang_set' => 'posting',
 		);
 		$event['lang_set_ext'] = $lang_set_ext;
 	}

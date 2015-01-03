@@ -1,3 +1,5 @@
 services:
     crizzo.editorimgbuttons.listener:
         class: crizzo\editorimgbuttons\event\listener
+        tags:
+            - { name: event.listener }
