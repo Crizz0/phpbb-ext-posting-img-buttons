@@ -1,8 +1,6 @@
-Posting Editor Image-Buttons 1.0.0
+Posting Editor Image-Buttons 2.0.0
 ==============
-"Posting Editor Image-Buttons" is an extension that changes the text-buttons in the posting to image-buttons. 
-
-The images are from www.famfamfam.com. 
+"Posting Editor Image-Buttons" is an extension that add a few buttons with fontawesome icons to the posting editor.
 
 ## Install instructions:
 1. Download the extension

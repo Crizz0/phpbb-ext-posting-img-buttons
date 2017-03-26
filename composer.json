@@ -1,10 +1,10 @@
 {
 	"name": "crizzo/editorimgbuttons",
 	"type": "phpbb-extension",
-	"description": "Changes buttons in posting editor to image-buttons.",
+	"description": "Adds a few buttons to the posting editor.",
 	"homepage": "https://github.com/Crizz0/phpbb-ext-posting-img-buttons",
-	"version": "1.0.0-dev",
-	"time": "2014-01-04",
+	"version": "2.0.0-dev",
+	"time": "2017-03-26",
 	"license": "GPL-2.0",
 	"authors": [{
 			"name": "Christian Schnegelberger",
@@ -14,17 +14,17 @@
 			"role": "Developer/Founder"
 		}],
 	"require": {
-		"php": ">=5.3.3"
+		"php": ">=5.4"
 	},
 	"extra": {
 		"display-name": "Posting Editor Image-Buttons",
 		"soft-require": {
-			"phpbb/phpbb": ">=3.1.2"
+			"phpbb/phpbb": ">=3.2.0"
 		},
 		"version-check": {
 			"host": "www.crizzo.de",
 			"directory": "/phpbbextversion",
-			"filename": "phpbb31-ext-editorimgbuttons.json"
+			"filename": "phpbb32-ext-editorimgbuttons.json"
 		}
 	}
 }
