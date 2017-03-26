@@ -4,7 +4,7 @@
 	"description": "Changes buttons in posting editor to image-buttons.",
 	"homepage": "https://github.com/Crizz0/phpbb-ext-posting-img-buttons",
 	"version": "1.0.0-dev",
-	"time": "2014-01-03",
+	"time": "2014-01-04",
 	"license": "GPL-2.0",
 	"authors": [{
 			"name": "Christian Schnegelberger",
